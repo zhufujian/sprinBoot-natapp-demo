@@ -27,3 +27,4 @@ hs_err_pid*
 .settings/org.eclipse.m2e.core.prefs
 .classpath
 target/classes/application.properties
+/target/
